@@ -38,5 +38,10 @@ Batear is a non-profit open-source project. We are currently applying for **HCB 
 
 ---
 
-### 💡 Why "Batear"?
-The name is a fusion of **"Bat"** (nature's master of acoustic sensing) and **"Ear"**. Much like a bat perceives its environment through sound, Batear listens for the subtle mechanical signatures of drone rotors amidst the digital noise.
+### 💡 The Batear Advantage: Acoustic Defense for Everyone
+
+Batear is built on **Radical Accessibility**. We believe airspace security shouldn't be a luxury.
+
+* **Ultra-Low Cost**: By using ESP32 and I2S microphones (ICS-43434), we reduce detection costs from thousands to **under $30 USD**.
+* **Plug-and-Play**: Batear is designed for easy, widespread deployment by anyone, anywhere.
+  
