@@ -33,11 +33,6 @@ We are currently moving beyond development boards. Our **HCB-supported roadmap**
 
 ---
 
-### 🤝 Sponsorship & Support
-Batear is a non-profit open-source project. We are currently applying for **HCB (Hack Club Bank)** support to accelerate our hardware manufacturing and community outreach.
-
----
-
 ### 💡 The Batear Advantage: Acoustic Defense for Everyone
 
 Batear is built on **Radical Accessibility**. We believe airspace security shouldn't be a luxury.
